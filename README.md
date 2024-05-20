@@ -28,7 +28,7 @@
  4. Navigate to the projects directory `cd ./Advanced-RAG-QA-Chatbot` using your terminal
  5. Install Libraries: `pip install -r requirements.txt`
  6. Open and run all cells in the `retriever_chain.ipynb` notebook then enter your google api key
- 7. Or you can download the PDF in the `data` directory and the `retriever_chain.ipynb` Notebook from the repository, upload those files and notebook to Google Collab then run all the cells in the `retriever_chain.ipynb` Notebook then enter your google api key
+ 7. Or you can download the PDF in the `data` directory and the `retriever_chain.ipynb` Notebook from the `notebook` directory in the repository, upload those files and notebook to Google Collab then run all the cells in the `retriever_chain.ipynb` Notebook then enter your google api key
 
 ## Collaboration
 - Collaborations are welcomed ❤️
