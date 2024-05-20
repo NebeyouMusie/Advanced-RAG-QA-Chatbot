@@ -8,8 +8,7 @@
 - A retriever does not need to be able to store documents, only to 
  return (or retrieve) them. Vector stores can be used as the backbone
  of a retriever, but there are other types of retrievers as well. 
-- **Retrieval chain**:This chain takes in a user inquiry, which is  
- then passed to the retriever to fetch relevant documents. Those documents (and original inputs) are then passed to an LLM to generate a response
+- **Retrieval chain**:This chain takes in a user inquiry, which is then passed to the retriever to fetch relevant documents. Those documents (and original inputs) are then passed to an LLM to generate a response
 
 ## Libraries Used
 - langchain==0.1.20
